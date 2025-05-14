@@ -14,4 +14,4 @@ The project outputs detailed simulation results, including traffic statistics, t
 
 **Usage**: Run the script to simulate 60 seconds of network traffic at 10 packets per second, generating logs and visualizations for analysis.
 
-Perfect for researchers, students, or professionals exploring network security simulations!
+
