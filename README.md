@@ -1,5 +1,4 @@
-# Firewall-Hybird_simulation
-**Repository Description: Network Firewall Simulation**
+# Network Firewall Simulation
 
 This project implements a sophisticated network firewall simulation in Python, designed to model real-world network security scenarios. The simulation processes synthetic network packets through a multi-stage pipeline: data input, rule-based inspection, anomaly detection using an Isolation Forest machine learning model, context-aware response, and final action determination. Key features include:
 
